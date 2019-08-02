@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 
-iOS Developer in [무신사](https://github.com/musinsa)
-
-[무신사 스토어](https://store.musinsa.com/app/)
+这是一个关于页面，请编辑about.md以介绍你的博客。
